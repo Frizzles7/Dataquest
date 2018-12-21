@@ -83,3 +83,6 @@ This project evaluates historical S&P 500 stock price data.  I create a script t
 This project uses data on bike rentals in Washington, DC.  I use several different models to predict the count of bike rentals in a given hour.  I review the data and create visualizations, including a histogram of the count of bike rentals and heatmap of correlations.  I begin with linear regression.  Next, I use decision trees to improve signficantly over linear regression, and I tweak the model to make it perform even better.  Then, I use a random forest to improve even more over the best decision tree model, and tune the parameters of that model to make it perform even better.
 
 
+## Project_21: [Handwritten Digits Classifier](https://github.com/Frizzles7/Dataquest/blob/master/Project_21/Basics.ipynb)
+This project uses the sklearn load_digits dataset to build models to classify handwritten digits.  I review the data provided, create visualizations of the images, and train a k-nearest neighbors model to start.  I then build several variations of neural network models to evaluate how the models perform as the number of layers increase and the number of neurons per layer increase.
+
