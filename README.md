@@ -86,3 +86,6 @@ This project uses data on bike rentals in Washington, DC.  I use several differe
 ## Project_21: [Handwritten Digits Classifier](https://github.com/Frizzles7/Dataquest/blob/master/Project_21/Basics.ipynb)
 This project uses the sklearn load_digits dataset to build models to classify handwritten digits.  I review the data provided, create visualizations of the images, and train a k-nearest neighbors model to start.  I then build several variations of neural network models to evaluate how the models perform as the number of layers increase and the number of neurons per layer increase.
 
+
+## Project_22: [Investigating Airplane Accidents](https://github.com/Frizzles7/Dataquest/blob/master/Project_22/read.py)
+This project uses data on airplane accidents.  I write a script to use this data to work with different data structures - lists and dictionaries - and to evaluate the time complexity of the code.  The script also uses try/except to handle missing or invalid values.
