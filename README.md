@@ -89,3 +89,7 @@ This project uses the sklearn load_digits dataset to build models to classify ha
 
 ## Project_22: [Investigating Airplane Accidents](https://github.com/Frizzles7/Dataquest/blob/master/Project_22/read.py)
 This project uses data on airplane accidents.  I write a script to use this data to work with different data structures - lists and dictionaries - and to evaluate the time complexity of the code.  The script also uses try/except to handle missing or invalid values.
+
+
+## Project_23: [Creating a Kaggle Workflow](https://github.com/Frizzles7/Dataquest/blob/master/Project_23/Basics.ipynb)
+This project uses the Titanic dataset from Kaggle to practice creating a workflow.  I build a pipeline of functions to perform data exploration, feature selection, model selection and tuning, and finally submit a predictions file to Kaggle.  My score for this submission on Kaggle was 0.77990.
