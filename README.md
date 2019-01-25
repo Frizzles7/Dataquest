@@ -39,7 +39,7 @@ This project investigates survey data on Star Wars movies.  I cleaned and transf
 This project involved creating and manipulating files from the command line, rather than in Jupyter.  In this project, I created several scripts to read in the data, perform counts of some variables, create pivot tables, and create a dictionary of counts.  The results of the analysis performed were printed to the findings.txt file.
 
 
-## Project_10: [Hacker New Submissions](https://github.com/Frizzles7/Dataquest/tree/master/Project_10)
+## Project_10: [Hacker News Submissions](https://github.com/Frizzles7/Dataquest/tree/master/Project_10)
 This project continued my work from the command line, writing scripts to answer some questions about the data provided on submissions to Hacker News.  I created scripts to read in the data, determine the most common words in the headlines, determine which domains were submitted most frequently to Hacker News, and determine at what time of day submissions were most commonly made.
 
 
